@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "cineforfuture",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "server.js"
+  },
+  "author": "Omar Bougarne",
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^17.13.3",
+    "joi-objectid": "^4.0.2"
+  }
+}
